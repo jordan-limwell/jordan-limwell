@@ -18,13 +18,13 @@
 
 ### 🧪 Projects
 
-- 🔎 **FilterX: A Web Extension for Moderating Online Hate Speech**  
-  Combines machine learning and NLP to detect and filter toxic language online.  
-  [GitHub Repo →](https://github.com/jordan-limwell/filterX)
-
 - 📊 **Data Warehose Using SQL Server**  
   Created A modern data warehouse with SQL Server, including ETL processes, data modeling and analytics
   [GitHub Repo →](https://github.com/jordan-limwell/data-warehouse-sql-server)
+
+- 🔎 **FilterX: A Web Extension for Moderating Online Hate Speech**  
+  Combines machine learning and NLP to detect and filter toxic language online.  
+  [GitHub Repo →](https://github.com/jordan-limwell/filterX)
 
 ---
 
