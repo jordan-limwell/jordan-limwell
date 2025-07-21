@@ -1,7 +1,7 @@
-<h1 align="center">Hi there 👋, I'm Asda!</h1>
+<h1 align="center">Hi there 👋, I'm Jordan!</h1>
 
 <p align="center">
-  Aspiring Data Analyst | Junior Python Developer | Problem Solver
+  Aspiring Data Analyst | Junior Data Engineer
 </p>
 
 ---
@@ -20,15 +20,11 @@
 
 - 🔎 **FilterX: A Web Extension for Moderating Online Hate Speech**  
   Combines machine learning and NLP to detect and filter toxic language online.  
-  [GitHub Repo →](https://github.com/your-username/filterx)
+  [GitHub Repo →]([https://github.com/your-username/filterx](https://github.com/jordan-limwell/filterX))
 
-- 📊 **Sales Insights Dashboard**  
-  Performed ETL on sales data and created a Power BI dashboard for monthly trends and KPIs.  
-  [GitHub Repo →](https://github.com/your-username/sales-dashboard)
-
-- 🧼 **Data Cleaning & Analysis with Python**  
-  Explored and cleaned messy datasets using pandas, NumPy, and visualized using seaborn/matplotlib.  
-  [GitHub Repo →](https://github.com/your-username/data-cleaning-project)
+- 📊 **Data Warehose Using SQL Server**  
+  Created A modern data warehouse with SQL Server, including ETL processes, data modeling and analytics
+  [GitHub Repo →](https://github.com/jordan-limwell/data-warehouse-sql-server)
 
 ---
 
@@ -38,19 +34,15 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-E74430?style=flat&logo=laravel&logoColor=white)
 
 ---
 
 ### 📫 Let's Connect!
 
-- LinkedIn: [linkedin.com/in/your-name](https://linkedin.com/in/your-name)  
-- Email: youremail@example.com  
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
-
+- LinkedIn: [linkedin.com/in/jordanlimwellmarcelo](https://www.linkedin.com/in/jordanlimwellmarcelo/)  
+- Email: official.jordanmarcelo@gmail.com 
 ---
 
 <p align="center">
-  🚀 Open to opportunities in Data Analysis & Python Development!
+  🚀 Open to opportunities in Data Engineering & Analysis!
 </p>
